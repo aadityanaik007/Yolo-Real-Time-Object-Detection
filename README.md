@@ -25,7 +25,7 @@ To run this project, you need to have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/real-time-object-detection-yolo.git
+   git clone [https://github.com/your-username/real-time-object-detection-yolo.git](https://github.com/aadityanaik007/Yolo-Real-Time-Object-Detection.git)
    cd real-time-object-detection-yolo
    ```
 

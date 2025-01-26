@@ -24,14 +24,15 @@ To run this project, you need to have the following installed:
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/real-time-object-detection-yolo.git](https://github.com/aadityanaik007/Yolo-Real-Time-Object-Detection.git)
-   cd real-time-object-detection-yolo
-   ```
+   ```bash 
+     git clone https://github.com/aadityanaik007/Yolo-Real-Time-Object-Detection.git ```
 
 ## Download Files
 
-    Download official yolov3.weights and place it under a folder called weight.
-    Download official yolov3-tiny.weights and place it under a folder called weight.
-    Download yolov3.cfg and place it under a folder called cfg.
-    Download yolov3-tiny.cfg and place it under a folder called cfg.
+Download official [Yolov3/weights](https://pjreddie.com/media/files/yolov3.weights) and place it under a folder called weight.
+
+Download official [yolov3-tiny.weights](https://pjreddie.com/media/files/yolov3-tiny.weights) and place it under a folder called weight.
+
+Download [yolov3.cfg](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg) and place it under a folder called cfg.
+
+Download [yolov3-tiny.cfg](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3-tiny.cfg) and place it under a folder called cfg.

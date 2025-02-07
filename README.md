@@ -8,7 +8,7 @@ This project demonstrates real-time object detection using the YOLO (You Only Lo
 - **Real-Time Performance**: Processes video frames efficiently with OpenCV's DNN module.
 - **Confidence Filtering**: Filters detections based on confidence thresholds.
 - **Visualization**: Displays detected objects with bounding boxes and labels on the video feed.
-- **FPS Display**: Shows the frames-per-second (FPS) on the output video.
+- **FPS Display**: Shows the frames-per-second (FPS) on the output video. 
 
 ---
 

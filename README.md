@@ -3,7 +3,7 @@
 This project demonstrates real-time object detection using the YOLO (You Only Look Once) algorithm, leveraging OpenCV and a pre-trained YOLO model. It supports both video files and live webcam feeds for object detection.
 
 ## Features
-
+ 
 - **Object Detection**: Detects multiple objects in real-time using YOLOv3-tiny.
 - **Real-Time Performance**: Processes video frames efficiently with OpenCV's DNN module.
 - **Confidence Filtering**: Filters detections based on confidence thresholds.
